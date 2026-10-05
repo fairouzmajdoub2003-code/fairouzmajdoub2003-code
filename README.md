@@ -138,7 +138,11 @@ A console-based typing game developed in C where the player protects a city from
 - 🖥️ Computer Engineering
 
 ---
+## 📜 Certifications
 
+- 🐧 **Introduction to Linux (LFS101)** — The Linux Foundation  
+  Issued: October 2026
+  
 ## 🌱 About Me
 
 I enjoy solving technical problems, learning new technologies, and developing projects that combine software and engineering.
